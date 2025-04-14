@@ -1,9 +1,7 @@
-# intro-to-iot
+# intro2iot-lab10
 
-## Description:
-Lab codes for the Course of Intro to IoT - Dawson College
- 
-### Functions:
+Dawson College - Electronics Engineering Department
 
-- example 1
-- example 2
+Author: Carlos Mendes, PhD
+
+## Introduction to IoT - Lab 10: Version Control and Documentation
